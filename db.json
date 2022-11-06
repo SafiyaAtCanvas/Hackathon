@@ -28,7 +28,7 @@
       "number-of-people" : "5",
       "status" : "valid",
       "preorder" : "yes",
-      "reserv-type" : "quick",
+      "reserv-type" : "quick"
 
     },
     "r-523" : {
@@ -36,8 +36,8 @@
       "name" : "Julie Nicole",
       "number-of-people" : "2",
       "status" : "valid",
-      "preorder" : "",
-      "reserv-type" : "quick",
+      "preorder" : "yes",
+      "reserv-type" : "quick"
 
     },
     "r-145" : {
@@ -45,8 +45,8 @@
       "name" : "Raj Anand",
       "number-of-people" : "4",
       "status" : "invalid",
-      "preorder" : "",
-      "reserv-type" : "quick",
+      "preorder" : "no",
+      "reserv-type" : "quick"
 
     },
     "r-242" : {
@@ -54,8 +54,8 @@
       "name" : "Hassan Ahmed",
       "number-of-people" : "12",
       "status" : "valid",
-      "preorder" : "",
-      "reserv-type" : "book",
+      "preorder" : "yes",
+      "reserv-type" : "book"
 
     },
     "r-152" : {
@@ -63,8 +63,8 @@
       "name" : "Elliot Ernest",
       "number-of-people" : "1",
       "status" : "valid",
-      "preorder" : "",
-      "reserv-type" : "",
+      "preorder" : "no",
+      "reserv-type" : "book"
 
     }
 
